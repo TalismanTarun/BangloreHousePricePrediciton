@@ -26,5 +26,5 @@ Some critical stages of the project:
 | model |	Best_score|	Best_params|
 | ---      | ---       | ----- |
 linear_regression|	0.821906|	{'n_jobs': 1}|
-lasso|	0.703815	|	{'alpha': 4, 'selection': 'random'}|
-ridge|	0.820455|	{'alpha': 1, 'solver': 'svd'}|
+lasso_regression|	0.703815	|	{'alpha': 4, 'selection': 'random'}|
+ridge_regression|	0.820455|	{'alpha': 1, 'solver': 'svd'}|
